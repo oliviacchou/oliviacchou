@@ -17,7 +17,6 @@ I'm currently looking for **Data Analyst / Data Scientist** roles where I can tu
 - 🎓 M.S. Applied Analytics, Columbia University (Graduate December 2026)
 - 🎓 B.S. Business Administration (Information Systems & Business Analytics), Boston University
 - 🌏 Based in New York, NY / Taipei, Taiwan
-- 💼 Prior experience: Foxconn Technology Group, Standard Chartered Bank, Uber Technologies
 
 ---
 
