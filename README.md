@@ -14,7 +14,7 @@ I'm a graduate student at Columbia University (M.S. Applied Analytics, GPA 4.04/
 
 I'm currently looking for full time **Data Analyst / Data Scientist** roles where I can turn ambiguous business questions into clear, data-driven answers.
 
-- 🎓 M.S. Applied Analytics - STEM Computer & Information Sciences, Columbia University (Graduating December 2026)
+- 🎓 M.S. Applied Analytics - Computer & Information Sciences, Columbia University (Graduating December 2026)
 - 🎓 B.S. Business Administration (Information Systems & Business Analytics), Boston University
 - 🌏 Based in New York, NY / Taipei, Taiwan
 
