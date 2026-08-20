@@ -12,7 +12,7 @@
 
 I'm a graduate student at Columbia University (M.S. Applied Analytics, GPA 4.04/4.0, STEM-designated) with a business analytics background from Boston University. I've worked across corporate strategy, banking, and operations at **Foxconn**, **Standard Chartered Bank**, and **Uber**, and I now build end-to-end data projects spanning **machine learning, SQL/database design, and BI dashboards**.
 
-I'm currently looking for **Data Analyst / Data Scientist** roles where I can turn ambiguous business questions into clear, data-driven answers.
+I'm currently looking for full time **Data Analyst / Data Scientist** roles where I can turn ambiguous business questions into clear, data-driven answers.
 
 - 🎓 M.S. Applied Analytics, Columbia University (Graduate December 2026)
 - 🎓 B.S. Business Administration (Information Systems & Business Analytics), Boston University
