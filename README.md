@@ -3,22 +3,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/olivia-chou-20020813/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:cc5399@columbia.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:cc5399@columbia.edu"><img src="https://img.shields.io/badge/cc5399%40columbia.edu-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 🧭 About Me
 
-I'm a graduate student at Columbia University (M.S. Applied Analytics, GPA 4.04/4.0, STEM-designated) with a background in business analytics & information systems from Boston University. I've worked across operations, corporate strategy, and investment banking at **Uber**, **Standard Chartered Bank**, and **Foxconn Technologies**, and I now build end-to-end data projects spanning **SQL/database design, machine learning, and BI dashboards**.
+I'm a graduate student at Columbia University (M.S. Applied Analytics, GPA 4.04/4.0), with a background in business analytics & information systems from Boston University. I've worked across operations, corporate strategy, and investment banking at **Uber**, **Standard Chartered Bank**, and **Foxconn Technologies**, and I now build end-to-end data projects spanning **SQL/database design, machine learning, and BI dashboards**.
 
-I'm currently looking for **Data Analyst / Data Scientist** roles where I can turn ambiguous business questions into clear, data-driven answers.
+I'm currently looking for **Data Analyst / Data Scientist** roles starting **December 2026**, where I can turn ambiguous business questions into clear, data-driven answers.
 
 - 🎓 M.S. Applied Analytics, Columbia University (Dec 2026)
 - 🎓 B.S. Business Administration (Information Systems & Business Analytics), Boston University
 - 🏆 Top 2% (7th/354) in a Kaggle-style ML competition predicting credit card spend
 - 💼 Prior experience: Foxconn Technology Group, Standard Chartered Bank, Uber Technologies
-- 🌏 Based in New York, NY / Taipei, Taiwan
+- 🌏 Based in New York, NY / Taipei, Taiwan (open to relocation)
 
 ---
 
