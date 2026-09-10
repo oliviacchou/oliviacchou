@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Olivia Chou 👋</h1>
-<h3 align="center">Data Analyst | MS in Applied Analytics @ Columbia University | Turning messy data into decisions</h3>
+<h3 align="center">Data Analyst | MS in Applied Analytics @ Columbia University</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/olivia-chou-20020813/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
