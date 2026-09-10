@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/olivia-chou-20020813/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:cc5399@columbia.edu"><img src="https://img.shields.io/badge/cc5399%40columbia.edu-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/oliviacchou/oliviacchou/blob/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-4CAF50?style=flat&logo=readdotcv&logoColor=white"/></a>
 </p>
 
 ---
