@@ -17,9 +17,7 @@ I'm currently looking for **Data Analyst / Data Scientist** roles starting **Dec
 
 - 🎓 M.S. Applied Analytics, Columbia University (Dec 2026)
 - 🎓 B.S. Business Administration (Information Systems & Business Analytics), Boston University
-- 🏆 Top 2% (7th/354) in a Kaggle-style ML competition predicting credit card spend
-- 💼 Prior experience: Foxconn Technology Group, Standard Chartered Bank, Uber Technologies
-- 🌏 Based in New York, NY / Taipei, Taiwan (open to relocation)
+- 🌏 Based in New York, NY / Taipei, Taiwan
 
 ---
 
